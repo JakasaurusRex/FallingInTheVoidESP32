@@ -9,7 +9,7 @@ The ESP ino file can be found in the display folder and the header files for the
 ![compilation](https://github.com/user-attachments/assets/cff865c5-66ac-42ee-b49b-f6057763ecab)
 
 ## What is this?
-As a class, we were tasked to create an art display with the ESP32 TTGO T-display with a common theme: **Fall**. The goal of my piece was to make viewers feel some piece while thinking about laying in a comfy bed closing your eyes and listening to music. 
+As a class, we were tasked to create an art display with the ESP32 TTGO T-display with a common theme: **Fall**. The goal of my piece was to make viewers feel some peace while thinking about laying in a comfy bed closing your eyes and listening to music and letting yourself float away. 
 
 Here are some of the tools and materials that I used to create the project and what you would need to replicate it:  
 - ESP32 TTGO T-display + Lipo battery
