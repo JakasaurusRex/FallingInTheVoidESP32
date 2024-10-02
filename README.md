@@ -16,7 +16,7 @@ Here are some of the tools and materials that I used to create the project and w
 - Envelope with cutout for display and yarn holes
 - Yarn + Popsicle Stick to hang the display
 - Arudino IDE
-- Aespirite for the pixel art!
+- Aseprite for the pixel art!
 
 
 ## How to Build!
@@ -32,9 +32,9 @@ git clone https://github.com/JakasaurusRex/FallingInTheVoidESP32.git
 
 ## How I made it! ⚙️✏️
 
-First step in creating the piece was coming up with the design. After doing some design workshopping, I came up with my idea and started working on some pixel art for the character in my display! I recommend [AdamCYounis on YouTube](https://www.youtube.com/watch?v=59Y6OTzNrhk&t=45s&ab_channel=AdamCYounis) if you would like to learn how to use Aespirite!
+First step in creating the piece was coming up with the design. After doing some design workshopping, I came up with my idea and started working on some pixel art for the character in my display! I recommend [AdamCYounis on YouTube](https://www.youtube.com/watch?v=59Y6OTzNrhk&t=45s&ab_channel=AdamCYounis) if you would like to learn how to use Aseprite!
 
-After creating my pixel art I started at work on display I was drawing to the ESP screen. I used the [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) library in order to display my sprites on the screen and move them around. In order to create the display I watched a bunch of tutorials from Volos Projects on YouTube, especially [this video](https://www.youtube.com/watch?v=U4jOFLFNZBI&ab_channel=VolosProjects) where he discusses how to have sprites with transparent backgrounds which I used to import my images I created in Aespirite. 
+After creating my pixel art I started at work on display I was drawing to the ESP screen. I used the [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI) library in order to display my sprites on the screen and move them around. In order to create the display I watched a bunch of tutorials from Volos Projects on YouTube, especially [this video](https://www.youtube.com/watch?v=U4jOFLFNZBI&ab_channel=VolosProjects) where he discusses how to have sprites with transparent backgrounds which I used to import my images I created in Aseprite. 
 
 In order to create my funky display, first I drew the black background and the person sprite that was moving around. Then I pushed the person sprite onto itself multiple times to create the afterimages rotating around them. Then I updated the variables values that I used for rotation and movement and flash the music notes on the screen every couple seconds. 
 
