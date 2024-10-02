@@ -19,7 +19,16 @@ Here are some of the tools and materials that I used to create the project and w
 - Aespirite for the pixel art!
 
 
-## How to make it! ⚙️✏️
+## How to Build!
+1. Clone the repo!
+``` git clone https://github.com/JakasaurusRex/FallingInTheVoidESP32.git```
+2. Open then .ino file in display folder in your Arudino IDE. Feel free to change out the images in the headers folder for whatever you like! 
+3. Connect your ESP32 and battery up and upload the program to the ESP.
+4. Put your ESP32 in your envelope and tie the yarn, envelope and posicle together
+5. Display!
+
+
+## How I made it! ⚙️✏️
 
 First step in creating the piece was coming up with the design. After doing some design workshopping, I came up with my idea and started working on some pixel art for the character in my display! I recommend [AdamCYounis on YouTube](https://www.youtube.com/watch?v=59Y6OTzNrhk&t=45s&ab_channel=AdamCYounis) if you would like to learn how to use Aespirite!
 
