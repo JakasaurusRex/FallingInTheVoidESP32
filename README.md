@@ -21,11 +21,13 @@ Here are some of the tools and materials that I used to create the project and w
 
 ## How to Build!
 1. Clone the repo!
-``` git clone https://github.com/JakasaurusRex/FallingInTheVoidESP32.git```
-2. Open then .ino file in display folder in your Arudino IDE. Feel free to change out the images in the headers folder for whatever you like! 
-3. Connect your ESP32 and battery up and upload the program to the ESP.
-4. Put your ESP32 in your envelope and tie the yarn, envelope and posicle together
-5. Display!
+```bash
+git clone https://github.com/JakasaurusRex/FallingInTheVoidESP32.git
+```
+3. Open then .ino file in display folder in your Arudino IDE. Feel free to change out the images in the headers folder for whatever you like! 
+4. Connect your ESP32 and battery up and upload the program to the ESP.
+5. Put your ESP32 in your envelope and tie the yarn, envelope and posicle together
+6. Display!
 
 
 ## How I made it! ⚙️✏️
